@@ -11,7 +11,7 @@ title: Desert Drift Team
 # Description of the Site
 description: First and only dedicated RWD RC Drift group in New Mexico.
 # URL of Image of the Site
-site-image: desert-drift-team.github.io/assets/images/ddt_logo.jpg
+site-image: /desert-drift-team.github.io/assets/images/ddt_logo.jpg
 # Keywords of the Site
 site-keywords: RC, drifting, RWD, Albuquerque
 # URL for the Image of custom Favicon
